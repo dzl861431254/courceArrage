@@ -1,0 +1,13 @@
+tags
+
+*.swp
+.env
+/.idea
+.DS_Store
+env.sh
+env_dev.sh
+coverage.out
+vendor/*
+worktree
+.pre-commit-config.yaml
+.vscode/launch.json
